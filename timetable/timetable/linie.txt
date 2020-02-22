@@ -1,0 +1,10 @@
+1;Maja-Armii Krajowej-Solidarnosci-Mechnice-Domecko-Wawelno-Ochodze-Brzezie-Dworcowa;
+2;Witosa-Niepodleglosci-Warszawska-Tarnowska-Naprawy-Chroscina-Kosciuszki-Wolnosci;
+3;Nyska-Traugutta-Domecko-Pucnik-Tarnowska-Bierkowice-Brynicka-Brzezie-Budowlanych-Fabryczna;
+4;Brzezie-Budowlanych-Domanskiego-Dworcowa-Fabryczna-Wawelno-Ochodze-Osiny-Dziekanstwo;
+5;Witosa-Domecko-Mechnice-Maja-Przyjazni-Solidarnosci-Armii Krajowej-Bierkowice;
+6;Warszawska-Tarnowska-Naprawy-Czestochowska-Budowlanych-Brzezie-Brynicka;
+7;Traugutta-Nyska-Kosciuszki-Wawelno-Ochodze-Osiny-Dziekanstwo-Tarnowska-Naprawy;
+8;Maja-Przyjazni-Solidarnosci-Armii Krajowej-Bierkowice-Brynicka-Brzezie-Budowlanych-Domanskiego;
+9;Maja-Dworcowa-Fabryczna-Budowlanych-Brzezie-Brynicka-Bierkowice-Armii Krajowej-Mechnice-Domecko-Witosa;
+10;Maja-Przyjazni-Ochodze-Osiny-Warszawska-Tarnowska-Naprawy-Bierkowice-Brynicka-Brzezie-Budowlanych-Domanskiego-Dworcowa;

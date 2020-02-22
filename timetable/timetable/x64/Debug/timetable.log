@@ -1,0 +1,8 @@
+﻿  add.c
+  cities.c
+  deleting.c
+  lines.c
+  main.c
+  modifying.c
+  Generating Code...
+  timetable.vcxproj -> E:\CUDA\timetable\timetable\x64\Debug\timetable.exe
